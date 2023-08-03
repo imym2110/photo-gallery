@@ -1,0 +1,20 @@
+body {
+  background-image: url("../src/assets/lukas-blazek-EWDvHNNfUmQ-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+.navbar {
+  background-color: #bdbdbdb0;
+}
+.search {
+  background-color: white;
+}
+.loader {
+  margin: 5px auto;
+}
+.imagelist::-webkit-scrollbar {
+  display: none;
+}
